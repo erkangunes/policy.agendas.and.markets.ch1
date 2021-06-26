@@ -3,7 +3,7 @@
 #----------------------------------------------------#
 
 #This script gets stock market data from Yahoo Finance using the quantmod package. 
-#The stock price data is processed to obtain monthly return and volatility date. 
+#The stock price data is processed to obtain monthly return and volatility data. 
 #The monthly return and volatility data is then combined with the policy data. 
 
 
